@@ -16,3 +16,18 @@
 - [ ] [Multiple Panes](https://www.internetingishard.com/html-and-css/introduction/#multiple-panes)
 - [ ] [Outside of Visual Studio Code](https://www.internetingishard.com/html-and-css/introduction/#outside-of-atom)
 - [ ] [Summary](https://www.internetingishard.com/html-and-css/introduction/#summary)
+
+## [Basic Webpages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+
+- [ ] [Setup](https://www.internetingishard.com/html-and-css/basic-web-pages/#setup)
+- [ ] [Structure of a Webpage](https://www.internetingishard.com/html-and-css/basic-web-pages/#structure-of-a-web-page)
+- [ ] [Page Titles](https://www.internetingishard.com/html-and-css/basic-web-pages/#page-titles)
+- [ ] [Paragraphs](https://www.internetingishard.com/html-and-css/basic-web-pages/#paragraphs)
+- [ ] [Heading](https://www.internetingishard.com/html-and-css/basic-web-pages/#headings)
+- [ ] [Unordered Lists](https://www.internetingishard.com/html-and-css/basic-web-pages/#unordered-lists)
+- [ ] [Ordered Lists](https://www.internetingishard.com/html-and-css/basic-web-pages/#ordered-lists)
+- [ ] [Emphasis (Italic) Elements](https://www.internetingishard.com/html-and-css/basic-web-pages/#emphasis-italic-elements)
+- [ ] [Strong (Bold) Elements](https://www.internetingishard.com/html-and-css/basic-web-pages/#strong-bold-elements)
+- [ ] [Structure Versus Presentation](https://www.internetingishard.com/html-and-css/basic-web-pages/#structure-versus-presentation)
+- [ ] [Empty HTML Elements](https://www.internetingishard.com/html-and-css/basic-web-pages/#empty-html-elements)
+- [ ] [Summary](https://www.internetingishard.com/html-and-css/basic-web-pages/#summary)
