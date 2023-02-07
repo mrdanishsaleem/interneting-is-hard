@@ -1,5 +1,18 @@
-# Interneting is hard
+# [Interneting is hard](https://www.internetingishard.com/)
 
-## HTML & CSS is hard
+## [HTML & CSS is hard](https://www.internetingishard.com/html-and-css/)
 
-- [x] Introduction of HTML & CSS
+- [ ] [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
+- [ ] [HTML, CSS, & JavaScript](https://www.internetingishard.com/html-and-css/introduction/#html-css-and-javascript)
+- [ ] [Languages Versus "Web Development"](https://www.internetingishard.com/html-and-css/introduction/#languages-versus-web-development)
+- [ ] [Web Publishing](https://www.internetingishard.com/html-and-css/introduction/#web-publishing)
+- [ ] [Fundamentals , Not Frameworks](https://www.internetingishard.com/html-and-css/introduction/#fundamentals-not-frameworks)
+- [ ] [Hands-on Learning](https://www.internetingishard.com/html-and-css/introduction/#hands-on-learning)
+- [ ] [Tools of the Trade](https://www.internetingishard.com/html-and-css/introduction/#tools-of-the-trade)
+- [ ] [Visual Studio Code Editor](https://www.internetingishard.com/html-and-css/introduction/#atom-text-editor)
+- [ ] [Creating a Project](https://www.internetingishard.com/html-and-css/introduction/#creating-a-project)
+- [ ] [Creating Files](https://www.internetingishard.com/html-and-css/introduction/#creating-files)
+- [ ] [Navigating in the File System](https://www.internetingishard.com/html-and-css/introduction/#navigating-the-file-system)
+- [ ] [Multiple Panes](https://www.internetingishard.com/html-and-css/introduction/#multiple-panes)
+- [ ] [Outside of Visual Studio Code](https://www.internetingishard.com/html-and-css/introduction/#outside-of-atom)
+- [ ] [Summary](https://www.internetingishard.com/html-and-css/introduction/#summary)
