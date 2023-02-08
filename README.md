@@ -2,7 +2,7 @@
 
 ## [HTML & CSS is hard](https://www.internetingishard.com/html-and-css/)
 
-- [ ] [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
+- [x] [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
 - [ ] [HTML, CSS, & JavaScript](https://www.internetingishard.com/html-and-css/introduction/#html-css-and-javascript)
 - [ ] [Languages Versus "Web Development"](https://www.internetingishard.com/html-and-css/introduction/#languages-versus-web-development)
 - [ ] [Web Publishing](https://www.internetingishard.com/html-and-css/introduction/#web-publishing)
