@@ -3,7 +3,7 @@
 ## [HTML & CSS is hard](https://www.internetingishard.com/html-and-css/)
 
 - [x] [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
-- [ ] [HTML, CSS, & JavaScript](https://www.internetingishard.com/html-and-css/introduction/#html-css-and-javascript)
+- [x] [HTML, CSS, & JavaScript](https://www.internetingishard.com/html-and-css/introduction/#html-css-and-javascript)
 - [ ] [Languages Versus "Web Development"](https://www.internetingishard.com/html-and-css/introduction/#languages-versus-web-development)
 - [ ] [Web Publishing](https://www.internetingishard.com/html-and-css/introduction/#web-publishing)
 - [ ] [Fundamentals , Not Frameworks](https://www.internetingishard.com/html-and-css/introduction/#fundamentals-not-frameworks)
