@@ -1,6 +1,6 @@
 # [Interneting is hard](https://www.internetingishard.com/)
 
-## [HTML & CSS is hard](https://www.internetingishard.com/html-and-css/)
+## [Chapter 1: HTML & CSS is hard](https://www.internetingishard.com/html-and-css/)
 
 - [x] [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
 - [x] [HTML, CSS, & JavaScript](https://www.internetingishard.com/html-and-css/introduction/#html-css-and-javascript)
@@ -17,7 +17,7 @@
 - [x] [Outside of Visual Studio Code](https://www.internetingishard.com/html-and-css/introduction/#outside-of-atom)
 - [x] [Summary](https://www.internetingishard.com/html-and-css/introduction/#summary)
 
-## [Basic Webpages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+## [Chapter 2: Basic Webpages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
 
 - [x] [Setup](https://www.internetingishard.com/html-and-css/basic-web-pages/#setup)
 - [x] [Structure of a Webpage](https://www.internetingishard.com/html-and-css/basic-web-pages/#structure-of-a-web-page)
@@ -32,7 +32,7 @@
 - [x] [Empty HTML Elements](https://www.internetingishard.com/html-and-css/basic-web-pages/#empty-html-elements)
 - [x] [Summary](https://www.internetingishard.com/html-and-css/basic-web-pages/#summary)
 
-## [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/)
+## [Chapter 3: Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/)
 
 - [x] [Setup](https://www.internetingishard.com/html-and-css/links-and-images/#setup)
 - [x] [Anchors](https://www.internetingishard.com/html-and-css/links-and-images/#anchors)
@@ -48,7 +48,7 @@
 - [x] [HTML Entities](https://www.internetingishard.com/html-and-css/links-and-images/#html-entities)
 - [x] [Summary](https://www.internetingishard.com/html-and-css/links-and-images/#summary)
 
-## [Hello, CSS](https://www.internetingishard.com/html-and-css/hello-css/)
+## [Chapter 4: Hello, CSS](https://www.internetingishard.com/html-and-css/hello-css/)
 
 - [x] [Setup](https://www.internetingishard.com/html-and-css/hello-css/#setup)
 - [x] [CSS StyleSheets](https://www.internetingishard.com/html-and-css/hello-css/#css-stylesheets)
@@ -64,7 +64,7 @@
 - [x] [The Cascade](https://www.internetingishard.com/html-and-css/hello-css/#the-cascade)
 - [x] [Summary](https://www.internetingishard.com/html-and-css/hello-css/#summary)
 
-## [The Box Model](https://www.internetingishard.com/html-and-css/css-box-model/)
+## [Chapter 5: The Box Model](https://www.internetingishard.com/html-and-css/css-box-model/)
 
 - [ ] [Setup](https://www.internetingishard.com/html-and-css/css-box-model/#setup)
 - [ ] [Block vs Inline](https://www.internetingishard.com/html-and-css/css-box-model/#block-elements-and-inline-elements)
