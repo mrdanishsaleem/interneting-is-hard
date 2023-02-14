@@ -99,7 +99,7 @@
 
 ## [Chapter 7: Floats](https://www.internetingishard.com/html-and-css/floats/)
 
-- [ ] [Setup](https://www.internetingishard.com/html-and-css/floats/#setup)
+- [x] [Setup](https://www.internetingishard.com/html-and-css/floats/#setup)
 - [ ] [Default HTML Layout Behavior](https://www.internetingishard.com/html-and-css/floats/#default-html-layout-behavior)
 - [ ] [Floating an Element](https://www.internetingishard.com/html-and-css/floats/#floating-an-element)
 - [ ] [Floating Inside of Parent](https://www.internetingishard.com/html-and-css/floats/#floating-inside-of-parents)
