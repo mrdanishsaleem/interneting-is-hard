@@ -165,7 +165,7 @@
 - [ ] [Responsive Image Optimization](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-image-optimization)
 - [ ] [Retina Optimization Using Srcset](https://www.internetingishard.com/html-and-css/responsive-images/#retina-optimization-using-srcset)
 - [ ] [Screen Width Optimization Using Srcset](https://www.internetingishard.com/html-and-css/responsive-images/#screen-width-optimization-using-srcset)
-- [ ] [Art Direction Using <Picture>](https://www.internetingishard.com/html-and-css/responsive-images/#art-direction-using-picture)
+- [ ] [Art Direction Using Picture](https://www.internetingishard.com/html-and-css/responsive-images/#art-direction-using-picture)
 - [ ] [Summary](https://www.internetingishard.com/html-and-css/responsive-images/#summary)
 
 ## [Chapter 12: Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
