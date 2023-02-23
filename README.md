@@ -147,14 +147,14 @@
 
 ## [Chapter 10: Responsive Design](https://www.internetingishard.com/html-and-css/responsive-design/)
 
-- [ ] [Setup](https://www.internetingishard.com/html-and-css/responsive-design/#setup)
-- [ ] [Css Media Queries](https://www.internetingishard.com/html-and-css/responsive-design/#css-media-queries)
-- [ ] [A Few Notes On Design](https://www.internetingishard.com/html-and-css/responsive-design/#a-few-notes-on-design)
-- [ ] [Mobile-First Development](https://www.internetingishard.com/html-and-css/responsive-design/#mobile-first-development)
-- [ ] [Tablet Layout](https://www.internetingishard.com/html-and-css/responsive-design/#tablet-layout)
-- [ ] [Desktop Layout](https://www.internetingishard.com/html-and-css/responsive-design/#desktop-layout)
-- [ ] [Disabling Viewport Zooming](https://www.internetingishard.com/html-and-css/responsive-design/#disabling-viewport-zooming)
-- [ ] [Summary](https://www.internetingishard.com/html-and-css/responsive-design/#summary)
+- [x] [Setup](https://www.internetingishard.com/html-and-css/responsive-design/#setup)
+- [x] [Css Media Queries](https://www.internetingishard.com/html-and-css/responsive-design/#css-media-queries)
+- [x] [A Few Notes On Design](https://www.internetingishard.com/html-and-css/responsive-design/#a-few-notes-on-design)
+- [x] [Mobile-First Development](https://www.internetingishard.com/html-and-css/responsive-design/#mobile-first-development)
+- [x] [Tablet Layout](https://www.internetingishard.com/html-and-css/responsive-design/#tablet-layout)
+- [x] [Desktop Layout](https://www.internetingishard.com/html-and-css/responsive-design/#desktop-layout)
+- [x] [Disabling Viewport Zooming](https://www.internetingishard.com/html-and-css/responsive-design/#disabling-viewport-zooming)
+- [x] [Summary](https://www.internetingishard.com/html-and-css/responsive-design/#summary)
 
 ## [Chapter 11: Responsive Images](https://www.internetingishard.com/html-and-css/responsive-images/)
 
