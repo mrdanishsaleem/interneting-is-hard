@@ -158,15 +158,15 @@
 
 ## [Chapter 11: Responsive Images](https://www.internetingishard.com/html-and-css/responsive-images/)
 
-- [ ] [Setup](https://www.internetingishard.com/html-and-css/responsive-images/#setup)
-- [ ] [Retina Screens](https://www.internetingishard.com/html-and-css/responsive-images/#retina-screens)
-- [ ] [Responsive Svg Images](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-svg-images)
-- [ ] [Responsive Png, Gif, And Jpg Images](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-png-gif-and-jpg-images)
-- [ ] [Responsive Image Optimization](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-image-optimization)
-- [ ] [Retina Optimization Using Srcset](https://www.internetingishard.com/html-and-css/responsive-images/#retina-optimization-using-srcset)
-- [ ] [Screen Width Optimization Using Srcset](https://www.internetingishard.com/html-and-css/responsive-images/#screen-width-optimization-using-srcset)
-- [ ] [Art Direction Using Picture](https://www.internetingishard.com/html-and-css/responsive-images/#art-direction-using-picture)
-- [ ] [Summary](https://www.internetingishard.com/html-and-css/responsive-images/#summary)
+- [x] [Setup](https://www.internetingishard.com/html-and-css/responsive-images/#setup)
+- [x] [Retina Screens](https://www.internetingishard.com/html-and-css/responsive-images/#retina-screens)
+- [x] [Responsive Svg Images](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-svg-images)
+- [x] [Responsive Png, Gif, And Jpg Images](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-png-gif-and-jpg-images)
+- [x] [Responsive Image Optimization](https://www.internetingishard.com/html-and-css/responsive-images/#responsive-image-optimization)
+- [x] [Retina Optimization Using Srcset](https://www.internetingishard.com/html-and-css/responsive-images/#retina-optimization-using-srcset)
+- [x] [Screen Width Optimization Using Srcset](https://www.internetingishard.com/html-and-css/responsive-images/#screen-width-optimization-using-srcset)
+- [x] [Art Direction Using Picture](https://www.internetingishard.com/html-and-css/responsive-images/#art-direction-using-picture)
+- [x] [Summary](https://www.internetingishard.com/html-and-css/responsive-images/#summary)
 
 ## [Chapter 12: Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
 
